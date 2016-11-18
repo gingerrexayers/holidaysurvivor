@@ -18,6 +18,14 @@ ul, li {
 
 body { background-color:#333; }
 
+.buybox {
+  background: #B61B1B;
+  padding: 1em;
+  text-align: center;
+  width: 300px;
+  margin: 0 auto;
+}
+
 #snow{
 	background: none;
 	background-image: url('http://www.wearewebstars.dk/codepen/img/s1.png'), url('http://www.wearewebstars.dk/codepen/img//s2.png'), url('http://www.wearewebstars.dk/codepen/img//s3.png');
