@@ -52,6 +52,12 @@ li {
   display: inline-block;
   text-align: center;
 }
+.santaslist
+  {
+    color: #fff;
+  text-decoration: none;
+  list-style-type: none;
+  }
 
 body { background-color:#333; }
 
