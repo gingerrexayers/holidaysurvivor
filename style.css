@@ -19,7 +19,20 @@ html, body {
     display: block;
     width: 100%;
     z-index: 2;
+    -webkit-animation: fd 1s linear 1;
+    -moz-animation: fd 1s linear 1;
+    -ms-animation: fd 1s linear 1;
+    animation: fd 1s linear 1;
+}
+
+@keyframes fd {
+  0% {
+    top: -50px;
   }
+  100% {
+    top: 0px;
+  }
+}
 
 h3 {
   text-align: center;
