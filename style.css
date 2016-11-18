@@ -27,6 +27,20 @@ h3 {
   color: #fff;
 }
 
+h1 
+  {
+
+    text-align: center;
+  margin-top: 10px;
+  color: #fff;
+  }
+
+h2 {
+text-align: center;
+  margin-top: 10px;
+  color: #fff;
+  
+}
 ul, li, a {
   color: #fff;
   text-decoration: none;
