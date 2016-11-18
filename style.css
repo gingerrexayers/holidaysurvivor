@@ -14,7 +14,7 @@ html, body {
 
 body { background-color:#333; }
 
-body {
+#snow{
 	background: none;
 	background-image: url('http://www.wearewebstars.dk/codepen/img/s1.png'), url('http://www.wearewebstars.dk/codepen/img//s2.png'), url('http://www.wearewebstars.dk/codepen/img//s3.png');
 	height: 100%;
